@@ -1,2 +1,2 @@
 # funkciju-testavimas
-Atskiras branchas funkciju testavimui
+Atskiraa repozitorija funkciju testavimui
